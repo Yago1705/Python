@@ -1,0 +1,7 @@
+nome = "yago"
+idade = 18
+peso = 64
+
+print(nome)
+print(idade)
+print(peso)
